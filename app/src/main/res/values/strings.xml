@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewModel_LiveData</string>
+    <string name="viewmodel_activity">View Model Add Activity</string>
+    <string name="viewmodel_useractivity">View Model User Activity</string>
+    <string name="livedata_activity">LiveData Activity</string>
+    <string name="add_txt">Add</string>
+</resources>
